@@ -14,6 +14,5 @@ switch(MonthNumber)
     case 10: console.log("October");break;
     case 11: console.log("November");break;
     case 12: console.log("December");break;
-
-    default: console.log("Invalid Week Number");
+    default: console.log("Invalid Month Number");
 }
