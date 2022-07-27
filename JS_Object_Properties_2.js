@@ -1,6 +1,6 @@
-//In this Function is defined in the Object, so its called method. 
+// In this Function is defined in the Object, so its called method. 
 // We need to give semicolon at the end because it has method.
-//Method also needs to be associated with some Property.
+// Method also needs to be associated with some Property.
 
 let employee =
 {
