@@ -1,3 +1,5 @@
+//Example of Switch Case Statement in Javascript.
+
 let MonthNumber=1;
 
 switch(MonthNumber)
