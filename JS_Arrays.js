@@ -1,5 +1,7 @@
+// Declare Array - 1st Option
 let cars=["Tesla", "BMW", "Mercedes"];
 
+// Declare Array - 2nd Option
 let car=new Array("Tesla", "BMW","Mercedes");
 
 console.log(cars); //How to print array elements
@@ -28,12 +30,14 @@ let person_2={
             };
  
 let CombinedArray=[Person_1,person_2]
-//Lets Print
+
+//Lets Print Combined Array
 console.log(CombinedArray);
 
 //OutPut:
 [{name:"john", age: 30},{name:"Bipasha", age:30}]
 
+// Lets Print Second Objects
 console.log(person_2[0]);
 
 //output:
@@ -58,7 +62,6 @@ for(element of Cars)
 }
 
 //Recognize the type of the Array
-
 console.log(typeof cars);  //---> Object [arrays are the type of objects.]
 
 
